@@ -7,8 +7,9 @@
 
 
 <h3 align="center">📚 Stacks </h3>
-<div align="center"><img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring Boot-6db33f?style=for-the-badge&logo=spring boot&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<div align="center"><img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>  
+ <img src="https://img.shields.io/badge/Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white"/> <br> 
+<img src="https://img.shields.io/badge/Spring Boot-6db33f?style=for-the-badge&logo=spring boot&logoColor=white"/>  <img src="https://img.shields.io/badge/thymeleaf-005f0f?style=for-the-badge&logo=thymeleaf&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </div>
 
 <br>
