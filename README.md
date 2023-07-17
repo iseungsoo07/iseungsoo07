@@ -1,5 +1,5 @@
 <p align="center"><a href="iseungsoo07.oopy.io" target="_blank"><img src="https://img.shields.io/badge/devlog-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/mail-ffffff?style=for-the-badge&logo=gmail&logoColor=ea4335"/></p>
+<img src="https://img.shields.io/badge/mail ＞ iseungsoo07@gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=ea4335"/></p>
 
 <h3 align="center">👋 Hi there! I'm backend developer using Java Spring 🌱</h3>
 
