@@ -1,7 +1,7 @@
 <p align="center"><a href="iseungsoo07.oopy.io" target="_blank"><img src="https://img.shields.io/badge/devlog-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/mail ＞ iseungsoo07@gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=ea4335"/></p>
 
-<h3 align="center">👋 Hi there! I'm backend developer using Java Spring 🌱</h3>
+<h3 align="center">👋 도전을 통한 성장을 갈구하는 개발자 송승수입니다! 🌱</h3>
 
 ---
 
